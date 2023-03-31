@@ -1,5 +1,5 @@
 // set server host
-routemamba.registerServerHost("http://127.0.0.1:5500/");
+routemamba.registerServerHost("https://faforhad.github.io/routmamba_project/");
 routemamba.registerMetaUrl("components/meta/meta-content.html");
 
 routemamba.register_http_routes([
